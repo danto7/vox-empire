@@ -1,0 +1,23 @@
+{
+  "name": "vox-empire",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danto9/vox-empire.git"
+  },
+  "author": "Daniel Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danto9/vox-empire/issues"
+  },
+  "homepage": "https://github.com/danto9/vox-empire",
+  "devDependencies": {
+    "three": "^0.69.0",
+    "three-orbit-controls": "^69.0.4"
+  }
+}
